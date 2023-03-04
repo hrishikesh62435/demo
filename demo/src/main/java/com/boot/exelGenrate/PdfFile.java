@@ -19,15 +19,7 @@ import com.lowagie.text.pdf.PdfWriter;
 import jakarta.servlet.http.HttpServletResponse;
 
 public class PdfFile {
-	//pdf file
-	//pdf file 2
-	//pdf file 3
-	//pdf file 4
-	//pdf file 5
-
-	//pdf file 10
-
-	//pdf file 7
+	
 
 	//ALL FIL
 	private List<Employee> employeeList;
